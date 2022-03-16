@@ -43,16 +43,16 @@ td {
     padding: 0px;
 }
 .color1 {
-    background-color: #e41749;
+    background-color: #ea7070;
 }
 .color2 {
-    background-color: #f5587b;
+    background-color: #fdc4b6;
 }
 .color3 {
-    background-color: #ff8a5c;
+    background-color: #e59572;
 }
 .color4 {
-    background-color: #fff591;
+    background-color: #2694ab;
 }
 
 .container-header {
@@ -97,7 +97,7 @@ button {
     font-size: 1.1rem;
     padding: 0.6em 2em;
     margin: 1em;
-    background-color: #f5587b; 
+    background-color: #e98357; 
     border: none;
     color: white;
     border-radius: 12px;
@@ -106,7 +106,7 @@ button {
 
 button:hover, 
 button:focus {
-    background-color: #e2234c;
+    background-color: #eb6931;
 }
 
 #output {
