@@ -25,9 +25,9 @@ function clickHandler() {
         let sum = calculateSum();
         let luck = checkLuck(sum);
         if (luck) {
-            divOutput.innerText = "your birthday is lucky!";
+            divOutput.innerText = "your birthday is lucky! 🥳";
         } else {
-            divOutput.innerText = "your birthday is not lucky!";
+            divOutput.innerText = "your birthday is not lucky! 🙁";
         }
     } else {
         divOutput.innerText = "please enter both the fields!";
